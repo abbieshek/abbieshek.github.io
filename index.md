@@ -8,6 +8,3 @@
 
         2. Reading material and agenda to follow is inspired by https://spinningup.openai.com/en/latest/user/introduction.html
 
-
-Day zero
-      1.https://lilianweng.github.io/posts/2018-02-19-rl-overview/
